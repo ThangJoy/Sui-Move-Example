@@ -1,0 +1,10 @@
+[package]
+name = "Coins"
+version = "0.0.1"
+edition = "2024.beta"
+
+[dependencies]
+Sui = { local = "/Users/thangpham/Documents/Move Learning/Move_Code_Example/crates/sui-framework/packages/sui-framework" }
+
+[addresses]
+examples = "0x0"
